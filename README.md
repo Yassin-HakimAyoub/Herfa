@@ -1,6 +1,6 @@
-# seco_school
+# Herfa
 
-e-learning app 
+Services Application 
 
 ## Getting Started
 
