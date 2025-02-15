@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "983616631578",
+    "project_id": "myfirstfirebaseapp-7355a",
+    "storage_bucket": "myfirstfirebaseapp-7355a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983616631578:android:8c2fd30049d55a260e32a3",
+        "android_client_info": {
+          "package_name": "com.seco.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983616631578-rc8j1md60sjfdrllni0ttgi2cs5dn588.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72ZlUGswn-5DwS1RCFXCwZk1To23AE-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983616631578-rc8j1md60sjfdrllni0ttgi2cs5dn588.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983616631578:android:458edd0ea42cc9e20e32a3",
+        "android_client_info": {
+          "package_name": "com.seco.seco_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983616631578-rc8j1md60sjfdrllni0ttgi2cs5dn588.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72ZlUGswn-5DwS1RCFXCwZk1To23AE-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983616631578-rc8j1md60sjfdrllni0ttgi2cs5dn588.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
